@@ -26,7 +26,6 @@ scaler = StandardScaler()
 X_train = scaler.fit_transform(X_train)
 X_test = scaler.transform(X_test)
 
-# Use Gaussian Naive Bayes
 nb_classifier = GaussianNB()
 nb_classifier.fit(X_train, Y_train)
 
