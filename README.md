@@ -28,15 +28,7 @@ The desktop application is designed to be user-friendly and caters to the needs 
 - `app.py`: Source code for the desktop application.
 - `heart.csv`: Datasets used for training and evaluation.
 
-## Usage
 
-To use the application:
 
-1. Clone the repository.
-2. Navigate to the `/src` directory.
-3. Run `app.py` to launch the desktop application.
 
-## Contributors
-
-- [Sude Sena Orak]
 
