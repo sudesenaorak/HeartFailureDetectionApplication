@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a desktop application for heart failure detection. The application leverages machine learning models, including Support Vector Machine (SVM), k-Nearest Neighbors (KNN), Logistic Regression (LR), Random Forest Classifier (RFC), Artificial Neural Network (ANN), and Deep Neural Network (DNN).
+This repository contains a desktop application for heart failure detection. The application leverages machine learning models, including Support Vector Machine (SVM), k-Nearest Neighbors (KNN), Logistic Regression (LR), Random Forest Classifier (RFC), Gaussian Naive Bayes (GNB), Artificial Neural Network (ANN), and Deep Neural Network (DNN).
 
 ## Machine Learning Models
 
@@ -12,6 +12,7 @@ The heart failure detection process involves training multiple machine learning 
 - KNN
 - LR
 - RFC
+- GNB
 - ANN
 - DNN
 
